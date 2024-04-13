@@ -39,7 +39,7 @@ These results demonstrate the effectiveness of LightGBM in predicting survival o
 3. Open and run the `titanic_lightgbm.ipynb` notebook using Jupyter Notebook.
 
 ## Contributors
-- [Your Name](https://github.com/chetan-codes)
+- [Chetan Choudhary](https://github.com/chetan-codes)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
